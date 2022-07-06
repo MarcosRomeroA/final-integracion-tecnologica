@@ -1,4 +1,4 @@
-# Game Engine
+# Lazzer Game Engine
 
 ## TODO:
 ### Circle Collider
